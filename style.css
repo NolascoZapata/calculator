@@ -17,11 +17,12 @@ h1 {
 }
 .calculator__output {
   background: hsl(255, 100%, 100%);
-  font-size: 4.2rem;
+  font-size: 1.85rem;
   padding-block-start: 3rem;
   padding-block-end: 0.5rem;
-  padding-inline-end: 1.25rem;
+  padding-inline-end: 0.25rem;
   text-align: end;
+  border: none;
 }
 .calculator__keys {
   display: grid;
